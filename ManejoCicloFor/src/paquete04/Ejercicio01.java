@@ -14,7 +14,6 @@ public class Ejercicio01 {
         int o2;
         int o3;
         int o4;
-        int limite;
         String cadena1 = "";
         
         for(num1 = 30; num1 >= 10; num1--){
